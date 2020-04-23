@@ -8,7 +8,7 @@ Por se tratar de um protótipo, não são todas as páginas que funcionam.
 
 Para acessar o painel do professor é só inserir `admin.php` pela URL. É possível ver apenas os alunos cadastrados, as redações que chegam ao professor não foi implementado.
 
-O acesso ao banco de dados `model/Dao.php` é feito utilizando singleton (design patterns).
+O acesso ao banco de dados `model/Dao.php` é feito utilizando **singleton** (design patterns).
 
 É um ótimo projeto para estudos, embora esteja incompleto é possível ver todo o sistema funcionando e tabalhando em conjunto com o banco de dados.
 
