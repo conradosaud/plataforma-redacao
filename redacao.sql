@@ -2,7 +2,6 @@
 -- version 4.9.5
 -- https://www.phpmyadmin.net/
 --
--- Host: 10.5.1.103:3306
 -- Tempo de geração: 23/04/2020 às 04:12
 -- Versão do servidor: 10.2.31-MariaDB
 -- Versão do PHP: 7.2.29
@@ -18,9 +17,6 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8mb4 */;
 
---
--- Banco de dados: `u647084545_redac`
---
 
 -- --------------------------------------------------------
 
