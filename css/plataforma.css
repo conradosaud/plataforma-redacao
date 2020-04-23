@@ -1,0 +1,25 @@
+.card-click:hover{
+    cursor: pointer;
+    background-color: rgb(255, 253, 255);
+    box-shadow: 1px 1px 3px black;
+}
+
+.card-chart{
+    padding: -30px;
+}
+
+.input-redacao{
+    width: 100%;
+}
+
+.btn-rascunho{
+    text-align: right;
+}
+
+@media screen and (max-width: 600px) {
+    .btn-rascunho{
+        text-align: left;
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+}
