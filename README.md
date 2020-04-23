@@ -1,4 +1,5 @@
 # Plataforma de Redação
+**Tecnologias utilizadas:** HTML, CSS, Javascript, Jquery, PhP e MySQL.
 A plataforma faria cadastro de alunos que poderia escrever suas redações e enviar para o professor, e o professor por sua vez, receberia todas as redações, faria correções e reenviava aos alunos.
 Este projeto foi desenvolvido por mim para um de meus primeiros clientes como freelancer. Este foi um protótipo do que seria a versão final que foi vendida.  
 ___
